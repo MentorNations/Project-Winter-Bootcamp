@@ -1,2 +1,6 @@
 # Project-Winter-Bootcamp
-this is the project for winter bootcamp !
+This is the project for winter bootcamp !
+The deadline : 02/01/2021 !
+Technologie to use : HTML + CSS + Javascript !
+
+
